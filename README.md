@@ -4,7 +4,8 @@ This is my minimal template to get working with React,Vite,tailwindcss,jotai and
 
 ## How to run?
 
-$ bun install \n
+$ bun install
+
 $ bun run dev
 
 _The default config runs with --host and --port 3000_
